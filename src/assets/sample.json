@@ -1,0 +1,13 @@
+[
+    {
+        "name":"Username",
+        "type":"text",
+        "validation":["required"]
+    },
+    {
+        "name":"Email",
+        "type":"text",
+        "validation":["required","email"]
+    }
+    
+]
